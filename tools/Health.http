@@ -1,0 +1,8 @@
+### Health GET
+GET http://localhost:3000/api/health HTTP/1.1
+
+### Health POST
+POST http://localhost:3000/api/health HTTP/1.1
+content-type: application/json
+
+{}
